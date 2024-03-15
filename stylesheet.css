@@ -74,10 +74,6 @@ a:hover {
   text-decoration: none;
 }
 
-b {
-  color: #2d59eb;
-  text-decoration: none;
-}
 
 body,
 td,
@@ -87,10 +83,6 @@ p,
 a {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 16px
-}
-b {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 10px
 }
 
 strong {
